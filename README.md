@@ -1,2 +1,2 @@
 # demoGithub
-FirstPROJE
+FirstProject
